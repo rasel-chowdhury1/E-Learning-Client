@@ -1,11 +1,10 @@
-# E-Learning Landing Page
+# E-Learning Landing Page  [Live Url](https://nex-gen-agency-client.vercel.app) 
 
 This project is a responsive e-learning landing page built using **React**, **Tailwind CSS**, **React Icons**, and **Framer Motion**. The application showcases an attractive, smooth UI with animated components to enhance user experience.
 
 ## Preview
 
-![Landing Page Preview](./path-to-your-screenshot.png)
-
+![Website Layout](src/assets/demo.png)
 ## Features
 
 - **Hero Section**: A welcoming banner with a brief introduction.
